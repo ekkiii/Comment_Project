@@ -1,0 +1,14 @@
+This semester in Computer Science: Python Language, we focused on mastering the fundamentals of computational thinking and problem-solving using the Python programming language. We covered the topics of Python syntax, data types, program organization, algorithm design, and control structures. In addition to biweekly assignments, problem sets and unit assessments, students also worked in pairs on a bank customer service simulation project where they developed a program to effectively calculate and distribute the wait time to increase customer satisfaction at a bank.
+
+Amadeus has an extraordinary work ethic and student habits. He faithfully completes the unit assignments. In class, Amadeus is fully engaged. He is not comfortable asking questions during the larger class discussion but works well in small groups with his peers. Additionally, he demonstrates good perseverance in the face of difficult tasks. Feel free to stop by our office or shoot our emails for any help!
+
+Amadeus has done a phenomenal job on tests. He has received A's on all tests, and has a test average of 97.625%, including a 100% on his cumulative final exam. I would challenge Amadeus to keep himself busy by learning a new coding language such as Java on his own in preparation for the AP Computer Science A exam in May (not required). He can also contribute to open sources, which is the coolest thing ever!
+
+On the final exam, your functions were efficient, easy to read and welldocumented (+1 bonus point for that!).
+
+On your bank customer service simulation partner project, you received a 96%. On the project, you elected to complete the challenging extension to the assignment, programming in a second teller the bank (you even made the teller part time, which was extremely business-savvy). Your collaboration and written code were both successful, and the only thing that could have improved the work was a bit more commenting.
+
+In reflecting on your progress this semester right before the semester exam, you wrote: 
+ "I feel confident about my understanding of the materials. I'm a little shaky on checking my work and debugging in an exam. Goals for next semester: keep learning."
+
+It is difficult to start learning a programming language from scratch, and Amadeus excelled with this increased challenge. With an overall grade percentage of 97.812%, Amadeus earned an A in this semester and I look forward to seeing his continued growth for the remainder of the year.
